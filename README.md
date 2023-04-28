@@ -11,5 +11,5 @@ Els mòduls que he fet són:
 - [M02: Bases de Dades](https://github.com/Jguijisa12/PORTAFOLIO/tree/main/MODULOS/M02-BasesDeDades)
 - [M03: Programació](https://github.com/jguijisa12/Portfoli/tree/main/Moduls/M03-Programacio)
 - [M04: LLenguatge de Marques](https://github.com/Jguijisa12/PORTAFOLIO/tree/main/MODULOS/M04-LenguajeDeMarcas)
-- [FOL: Formació i Orientació Laboral](https://github.com/jguijisa12/Portfoli/tree/main/Moduls/M12-FOL)
+- [FOL: Formació i Orientació Laboral](https://github.com/Jguijisa12/PORTAFOLIO/tree/main/MODULOS/M12-FOL)
 - [EiE: Empresa i iniciativa Emprenededora](https://github.com/jguijisa12/Portfoli/tree/main/Moduls/M13-EiE)
