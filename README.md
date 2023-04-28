@@ -9,7 +9,7 @@ Els meus estudis de DAM els vaig fer a l'Institut Nicolau Copèrnic:
 Els mòduls que he fet són:
 - [M01: Sistemes Informàtics](https://github.com/Jguijisa12/PORTAFOLIO/tree/main/MODULOS/MO1-SistemesInformatics)
 - [M02: Bases de Dades](https://github.com/Jguijisa12/PORTAFOLIO/tree/main/MODULOS/M02-BasesDeDades)
-- [M03: Programació](https://github.com/jguijisa12/Portfoli/tree/main/Moduls/M03-Programacio)
+- [M03: Programació](https://github.com/Jguijisa12/PORTAFOLIO/tree/main/MODULOS/M03-Programacion)
 - [M04: LLenguatge de Marques](https://github.com/Jguijisa12/PORTAFOLIO/tree/main/MODULOS/M04-LenguajeDeMarcas)
 - [FOL: Formació i Orientació Laboral](https://github.com/Jguijisa12/PORTAFOLIO/tree/main/MODULOS/M12-FOL)
 - [EiE: Empresa i iniciativa Emprenededora](https://github.com/jguijisa12/Portfoli/tree/main/Moduls/M13-EiE)
